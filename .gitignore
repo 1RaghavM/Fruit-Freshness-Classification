@@ -1,0 +1,5 @@
+.venv/
+data/
+README.dataset.txt
+.env
+

@@ -1,0 +1,6 @@
+kagglehub
+torchvision
+torch
+matplotlib
+pathlib
+torchinfo
