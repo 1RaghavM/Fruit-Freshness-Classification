@@ -1,5 +1,5 @@
 .venv/
-data/
 README.dataset.txt
 .env
+__pycache__
 
