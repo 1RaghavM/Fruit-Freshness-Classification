@@ -14,6 +14,7 @@ For each fruit, it can tell if it is fresh or rotten. This gives six different c
 ## How It Works
 
 The code uses PyTorch to build and train a model. The model learns from many pictures of fresh and rotten fruits. After training, it can look at new pictures and predict if the fruit is fresh or rotten.
+This model was trained locally on a RTX3090, but can be done with other accelerators such as Apple Silicon. In the notebooks and scripts, there is use of both CUDA and MPS accelerators as this was used on both types of hardware.
 
 The project includes code to:
 - Organize the training data
