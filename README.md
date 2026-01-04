@@ -24,5 +24,6 @@ The project includes code to:
 
 ## About This Project
 
-This project was created while learning from the Zero to Mastery "Learn PyTorch for Deep Learning" course. It shows how to build a simple image classification model using PyTorch.
+This project was created while learning from the Zero to Mastery "Learn PyTorch for Deep Learning" course. It shows how to build a simple image classification model using PyTorch. The dataset used to train this model is available on Kaggle at the following link:
+https://www.kaggle.com/datasets/abdulrafeyyashir/fresh-vs-rotten-fruit-images
 
