@@ -14,8 +14,8 @@ def create_dataloaders(train_dir, test_dir, transform, batch_size, num_workers):
     return train_dataloader, test_dataloader, class_names
 
 
-train_data = datasets.ImageFolder('/Users/raghavmehta/Downloads/Fruit-Freshness-Classification/modules/data/train_organized')
-#test_data = datasets.ImageFolder('/Users/raghavmehta/Downloads/Fruit-Freshness-Classification/modules/data/test')
+# train_data = datasets.ImageFolder('/Users/raghavmehta/Downloads/Fruit-Freshness-Classification/modules/data/train_organized')
+# #test_data = datasets.ImageFolder('/Users/raghavmehta/Downloads/Fruit-Freshness-Classification/modules/data/test')
 
-class_names = train_data.classes
-print(class_names)
+# class_names = train_data.classes
+# print(class_names)
